@@ -27,7 +27,7 @@ public class Main {
         // Arithmetic Casting
 
     }
-    // the everything must be inside the main class curly brackets
+    // then everything must be inside the main class curly brackets
 
 
     public static int doubleNumber(int input){
