@@ -23,8 +23,5 @@ public class AgeNameIncome {
         System.out.println("My name is " + name + ", my age is " + age + "\n" +
                 "I hope to earn $" + income + " per year.");
 
-
-
-
     }
 }
