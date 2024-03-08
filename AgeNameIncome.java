@@ -17,7 +17,7 @@ public class AgeNameIncome {
         System.out.println("Enter age: ");
         age = key.nextInt();
 
-        System.out.println("Ener you Income: ");
+        System.out.println("Enter you Income: ");
         income = key.nextDouble();
 
         System.out.println("My name is " + name + ", my age is " + age + "\n" +
